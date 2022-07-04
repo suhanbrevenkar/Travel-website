@@ -1,0 +1,116 @@
+[
+    {
+        "country": "USA",
+        "name": "Grand Canyon",
+        "description": "This incredible natural attractions is one of the most visited places in the United States. Carved out by the Colorado River, the Grand Canyon cuts deep into the landscape, creating dramatic cliff walls and ledges. Visitors standing on the rim of the canyon can see down to the canyon floor a mile below, and look out over the ridges and cliffs that run as far as the eye can see. The South Rim is the most visited section of Grand Canyon National Park, with a large visitors center, regular bus service along the Rim in the high season, and a walkway that runs along the canyon with numerous viewing points and platforms. The North Rim, which also has lookout areas, provides a different perspective. This section of the park has limited access from November to May due to snow and winter conditions."
+    },
+    {
+        "country": "USA",
+        "name": "Niagara Falls",
+        "description": "Situated along the Canada-US border, Niagara Falls is one of the most famous waterfalls in the world. The water from Lake Erie flows into Lake Ontario over these massive waterfalls, known for the great quantity of water that is constantly tumbling over the vertical drop. The amount of water going over the falls is actually reduced in winter, when more water is used to produce hydroelectric power. Most visitors will not notice a difference.Niagara Falls is actually a set of three falls, consisting of the largest section known as Horseshoe Falls, a second section on the American side of the river known as the American Falls, and a much thinner section located next to the American Falls, known as Bridal Veil Falls. On clear days, the plume of mist rising from Niagara Falls can be seen from as far away as the CN Tower in downtown Toronto, Canada, on the opposite shore of Lake Ontario."
+    },
+    {
+        "country": "USA",
+        "name": "Statue of Liberty",
+        "description": "A universal symbol of freedom, the Statue of Liberty is America's most familiar icon and the largest statue in the world. Standing 152 ft in New York Harbor, visitors can admire the statue from various points around the city, particularly Battery Park, or take a ferry right to the statue. For people who plan to go out to the statue, options include grounds tickets, pedestal tickets, or crown tickets, which allow different levels of access to the site. Anyone who plans on going inside the Statue of Liberty is encouraged to make advanced ticket reservations."
+    },
+    {
+        "country": "USA",
+        "name": "White House",
+        "description": "The White House is the official residence of the President of the United States, and on almost all tourists' list of things to see in Washington. This historic structure has been the home of every president except George Washington. It was originally built by James Hoban in 1792 and, after being burned down by British forces in 1814, was rebuilt in 1818. Tours of the White House are free, but reservations must be made a minimum of three weeks in advance. Strict security rules are always in effect."
+    },
+    {
+        "country": "TURKEY",
+        "name": "Hagia Sophia",
+        "description": "Unarguably the top tourist attraction in Turkey, Hagia Sophia is equally magnificent for its structural beauty and vastness. Situated in Istanbul, the Hagia Sophia was originally a basilica constructed in the sixth century for the Eastern Roman Emperor Justinian I. Hagia Sophia is one of those few architectures that shows the brilliance of Roman engineering.The massive dome (31 meters or 102 feet in diameter) covers was the largest enclosed space for over 1000 years in the world. In 1204, the church was looted by the fourth Crusaders and transformed into a mosque in the 15th century after The Ottomans conquered the city, quite a common phenomenon in all those days. It is now a museum since1935."
+    },
+    {
+        "country": "TURKEY",
+        "name": "Goreme Fairy Chimneys",
+        "description": "Considered as one of the top tourist attractions of turkey, the Cappadocia is famous for its weird and wonderful natural rock formations and unique historical heritage. The best places to see these maverick formations are the town of Göreme, which is situated among a large number of tuff cones, termed fairy chimneys.By the wind and water erosion of two different volcanic layers, the fairy chimneys were formed. A thick layer of tuff (consolidated volcanic ash) covered by a thin layer of basalt that is more protected to erosion. Many of the fairy chimneys at Cappadocia have been hollowed out over the centuries to create houses, churches and storage facilities due to the ease of carving into the tuff."
+    },
+    {
+        "country": "TURKEY",
+        "name": "Library of Celsus",
+        "description": "Built in honor of the Roman Senator Tiberius Julius Celsus Polemaeanus, The library of Celsus is an ancient Roman building in Ephesus, Anatolia. It is a popular tourist attraction on the west coast. Served also as a mausoleum for Celsus, The library was built to store 12,000 scrolls. By an earthquake in 262 AD, the interior of the library was completely destroyed. It was transformed into a Nymphaeum about 400 AD.  The Greek influence on Roman architecture is clearly evident from the style of construction. It becomes a national symbol of Turkey."
+    },
+    {
+        "country": "TURKEY",
+        "name": "Blue Mosque",
+        "description": "The Sultan Ahmed Mosque, popularly known as Blue Mosque is a historic Mosque in Istanbul. Built from 1609 to 1616, it is still used for prayer. Blue Mosque has become one of the top tourist attractions in Turkey for its unique and serene beauty. It has one main dome, six minarets, and eight secondary domes. It is also influenced with some Byzantine Christian elements. The high ceiling is lined with the 20,000 blue tiles with different patterns inside the mosque give the mosque its popular name Blue Mosque.The Sultan Ahmed Mosque, popularly known as Blue Mosque is a historic Mosque in Istanbul. Built from 1609 to 1616, it is still used for prayer. Blue Mosque has become one of the top tourist attractions in Turkey for its unique and serene beauty. It has one main dome, six minarets, and eight secondary domes. It is also influenced with some Byzantine Christian elements. The high ceiling is lined with the 20,000 blue tiles with different patterns inside the mosque give the mosque its popular name Blue Mosque."
+    },
+    {
+        "country": "SPAIN",
+        "name": "Alhambra",
+        "description": "Part fortress, part palace and part garden the Alhambra is situated on a plateau overlooking the city of Granada in southern Spain. The palace was constructed in the 14th century by the Nasrid sultans. The Alhambra is now one of Spain’s major tourist attractions and many visitors come to Granada just to see the Alhambra."
+    },
+    {
+        "country": "SPAIN",
+        "name": "Mezquita of Cordoba",
+        "description": "The Mezquita (Spanish for “Mosque”) of Cordoba is a fascinating building famous for the forest of pillars and arches inside the main hall. The site was originally a Roman temple, then a Visigothic church, before the Umayyad Moors built the Mezquita. After the Spanish Reconquista a cathedral was built into the center of the large Moorish building."
+    },
+    {
+        "country": "SPAIN",
+        "name": "El Escorial",
+        "description": "Nestled in the foothills of the Sierra de Guadarrama, El Escorial was the political center of the Spanish empire under King Philip II. Philip appointed Juan Bautista de Toledo as the architect in 1559 and together they designed El Escorial as a monument to Spain’s role as a center of the Christian world. Today it functions as a monastery, royal palace, museum, and school."
+    },
+    {
+        "country": "SPAIN",
+        "name": "Sagrada Familia",
+        "description": "The Sagrada Familia is a large Roman Catholic church in Barcelona, and one of Spain’s most visited tourist attractions. It’s a design by Antoni Gaudí, a Catalan architect who worked on this project for almost 40 years until his death in 1926. The construction of the basilica began in 1882 and still as yet not finished."
+    },
+    {
+        "country": "BALI",
+        "name": "Ubud",
+        "description": "Perched among the terraced rice fields that climb up the foothills of Bali’s central mountains, Ubud is considered the island’s cultural heart. Ubud is home to the island’s most important museums, including the Neka Art Museum with its expansive collection of Balinese paintings. There are dance and music performances every day throughout the city as well as numerous art galleries and craft shops to explore. Although Ubud has long been valued as a great place to learn about Balinese culture, tourism in Ubud boomed exponentially after it was featured in the book and movie “Eat, Pray, Love.” Fortunately, it only takes a short walk or bicycle ride to escape from the crowds and commercialism. Ubud is surrounded by gently rolling rice paddies which create a beautiful impression of greenness."
+    },
+    {
+        "country": "BALI",
+        "name": "Tanah Lot",
+        "description": "Situated on a large rock, Tanah Lot is one of the most famous Hindu temples in Bali. It has been a part of Balinese mythology for centuries. The temple is one of 7 sea temples, each within eyesight of the next, to form a chain along the south-western coast of Bali. Tanah Lot is one of the most popular places to visit in Bali and the whole area can be very busy, especially in the late afternoons and before sunset. The area between the car park and the beach adjacent to the temple is a maze of souvenir shops selling just about every Balinese trinket imaginable. Once visitors have fought their way through the souvenir vendors to the beach, they will see the magnificent temple perched on a rock just a few meters offshore."
+    },
+    {
+        "country": "BALI",
+        "name": "Seminyak",
+        "description": "Located on the southwestern coast of Bali, Seminyak is a small town that has been encompassed by the city of Kuta’s expansive growth. Despite its proximity to Kuta, Seminyak is one of the island’s most exclusive vacation destinations. From its high-end boutiques and five-star restaurants to its luxury hotels and spas, the city attract attracts well-heeled travelers from around the world. Although the surf is too treacherous for most swimmers, Seminyak Beach offers visitors panoramic views of the Indian Ocean and of the professional surfers who flock to this area to ride the big waves too."
+    },
+    {
+        "country": "DUBAI",
+        "name": "Burj Khalifa",
+        "description": "Dubai's landmark building and major tourist attraction is the Burj Khalifa, which at 829.8 meters is the tallest building in the world and the most famous of the city's points of interest.For most visitors, a trip to the observation deck on the 124th floor here is a must-do while in the city. The views across the city skyline from this bird's-eye perspective are simply staggering.The slick observation deck experience includes a multimedia presentation on both Dubai and the building of the Burj Khalifa (completed in 2010) before a high-speed elevator whizzes you up to the observation deck for those 360-degree views out across the skyscrapers to the desert on one side and the ocean on the other.Nighttime visits are particularly popular with photographers due to Dubai's famous city-lights panoramas."
+    },
+    {
+        "country": "DUBAI",
+        "name": "Dubai Mall",
+        "description": "Dubai Mall is the city's premier mall and one of the city's best places to visit for a day of shopping and indoor activities to keep the kids busy. It provides entry to the Burj Khalifa, as well as the Dubai Aquarium.There is also an ice-skating rink, gaming zone, and cinema complex if you're looking for more entertainment options.The shopping and eating is endless, and there are nearly always special events such as live music and fashion shows within the mall. The most famous of these are the annual Dubai Shopping Festival in January and February and the Dubai Summer Surprises Festival in July and August."
+    },
+    {
+        "country": "DUBAI",
+        "name": "Dubai Museum",
+        "description": "Dubai's excellent museum is housed in the Al-Fahidi Fort, built in 1787 to defend Dubai Creek. The fort's walls are built out of traditional coral-blocks and held together with lime. The upper floor is supported by wooden poles, and the ceiling is constructed from palm fronds, mud, and plaster.In its history, the fort has served as a residence for the ruling family, a seat of government, garrison, and prison. Restored in 1971 (and again extensively in 1995), it is now the city's premier museum.The entrance has a fascinating exhibition of old maps of the Emirates and Dubai, showing the mammoth expansion that hit the region after the oil boom."
+    },
+    {
+        "country": "SINGAPORE",
+        "name": "Jurong Bird Park",
+        "description": "Jurong Bird Park is the greatest in Asia Pacific and very natural came first in our list of places to visit in Singapore. This 49 sections of land flying creature park is home to more than 5,000 fowls with 380 species from everywhere throughout the world. The Waterfall Aviary is the most terrific range in the recreation center where it is a 5 sections of land woods containing more than 1,500 African winged creatures and has a 100-feet man-made waterfall. On the off chance that you would prefer not to visit the recreation center by foot, you can jump on a cable car to have an outline of the recreation center."
+    },
+    {
+        "country": "SINGAPORE",
+        "name": "Singapore Zoo and River Safari",
+        "description": "Path back to 1960s, the British had left a ragbag of family pets when they hauled out of Singapore. The 69 sections of land Singapore Zoo was formally opened in 1973 where it is currently home to more than 300 species, for example, tigers, orangutans, komodo mythical serpents, brilliant lion and jeopardized species. There is reproducing programs started for imperiled species, which had made some progress.At the passageway, you can observe the creature appears and nourishing times posted with the goal that you can arrange the visit. There is a cable car administration (at additional charge) where you can take to visit the zoo. Waterway Safari, the main Asia stream themed safari park, was opened in 2013. The recreation center is partitioned into various zones – Mississippi, Congo, Nile, Gangers, Murray, Mekong and Yangtze waterways and one can walk around the recreation center and experience local untamed life to the waterways."
+    },
+    {
+        "country": "SINGAPORE",
+        "name": "The Singapore Flyer",
+        "description": "Opened in 2008, the Singapore Flyer one of the most popular places to visit in Singapore, is a monster Ferris wheel in Singapore. Remaining at the edge of Marina and a noteworthy stature of 541ft, you can see the engineering of Marina Bay Sands and astounding perspective of Singapore all through the ride. There are 28 containers and every aerated and cooled case can take up to 28 individuals. The ride takes around 35 minutes and there is editorial on the points of interest all through the ride. There is additionally a three-story air terminal style working at the base of the wheel, including shopping and eating choices."
+    },
+    {
+        "country": "SINGAPORE",
+        "name": "Singapore Botanic Garden",
+        "description": "In 1822, Sir Stamford Raffles had built up Botanic Gardens at the base of Government Hill and the gathering was moved to its present site at 1859. Throughout the years, the greenhouses had been broadened and arranged. Today, the Botanic Garden is currently an UNESCO World Heritage and in among the top to-visit places to visit in Singapore. The National Orchid Garden is the highlight of the Botanic Garden. It has the most noteworthy presentation of the tropical orchids on the planet. With a Cool House for a high elevation of Orchids in common settings, it has more than 1,000 species and 2,000 half and halves. The greenery enclosure is prevalent with its local people, who run and excursion and go to the incessant outside shows in Palm Valley. The patio nursery is best investigated in the relative cool morning or at night."
+    }
+    
+    
+    
+
+]
