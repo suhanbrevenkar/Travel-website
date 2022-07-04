@@ -1,0 +1,27 @@
+h1{
+    margin-bottom : 0px
+
+}
+
+h3{
+    margin-top : 0px
+}
+
+.vinod {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+
+}
+.balaji{
+    color: crimson;
+    text-align: end;
+    font-size: 40px;
+}
+
+:hover .vinod {
+    color: crimson;
+}
+:hover .balaji{
+    color: darkgoldenrod;
+}
